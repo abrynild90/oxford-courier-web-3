@@ -1,0 +1,244 @@
+[
+  {
+    "id": "tico-street",
+    "site": "Tico’s Steak House",
+    "tile": "-1_-1",
+    "asset": "streets/-1_-1.glb",
+    "focus": [
+      -134,
+      -26
+    ],
+    "eye": [
+      -129,
+      3.1,
+      -18
+    ],
+    "look": [
+      -134.5,
+      2.0,
+      -37.0
+    ],
+    "fov": 40,
+    "note": "Jackson Avenue view of the original telephone office and the masonry frontage."
+  },
+  {
+    "id": "tico-sidewalk",
+    "site": "Tico’s Steak House",
+    "tile": "-1_-1",
+    "asset": "streets/-1_-1.glb",
+    "focus": [
+      -134,
+      -27
+    ],
+    "eye": [
+      -130,
+      1.85,
+      -25.5
+    ],
+    "look": [
+      -134.3,
+      2.0,
+      -37.6
+    ],
+    "fov": 43,
+    "note": "Sidewalk view of the brick belt course, stone arch, three sash bays and approach railings."
+  },
+  {
+    "id": "avent-approach",
+    "site": "Avent Park gateway",
+    "tile": "2_-2",
+    "asset": "parks/avent-entrance.glb",
+    "focus": [
+      1038,
+      -779
+    ],
+    "eye": [
+      1030,
+      2.2,
+      -774
+    ],
+    "look": [
+      1044.8,
+      2.1,
+      -782.12
+    ],
+    "fov": 46,
+    "note": "View along the approach to the park entrance with the gateway and open passage in frame."
+  },
+  {
+    "id": "avent-sign",
+    "site": "Avent Park gateway",
+    "tile": "2_-2",
+    "asset": "parks/avent-entrance.glb",
+    "focus": [
+      1038,
+      -779
+    ],
+    "eye": [
+      1039.8,
+      2.6,
+      -782.11
+    ],
+    "look": [
+      1044.8,
+      3.91,
+      -782.12
+    ],
+    "fov": 44,
+    "note": "Close view of the gateway piers, arch and lettering."
+  },
+  {
+    "id": "campus-barr",
+    "site": "Barr Hall",
+    "tile": "-4_-1",
+    "asset": "streets/-4_-1.glb",
+    "focus": [
+      -1829,
+      -4
+    ],
+    "eye": [
+      -1829,
+      2,
+      -4
+    ],
+    "look": [
+      -1840,
+      5,
+      -29
+    ],
+    "fov": 47,
+    "note": "South and east elevations."
+  },
+  {
+    "id": "campus-vardaman",
+    "site": "Vardaman Hall",
+    "tile": "-4_-1",
+    "asset": "streets/-4_-1.glb",
+    "focus": [
+      -1911,
+      -41
+    ],
+    "eye": [
+      -1911,
+      3,
+      -41
+    ],
+    "look": [
+      -1940,
+      6.8,
+      -51
+    ],
+    "fov": 51,
+    "note": "East entrance elevation."
+  },
+  {
+    "id": "campus-hill",
+    "site": "Hill Hall",
+    "tile": "-4_-1",
+    "asset": "streets/-4_-1.glb",
+    "focus": [
+      -1925,
+      -31
+    ],
+    "eye": [
+      -1925,
+      2.2,
+      -31
+    ],
+    "look": [
+      -1905,
+      6,
+      -44
+    ],
+    "fov": 55,
+    "note": "West-facing masonry and entrance detail."
+  },
+  {
+    "id": "campus-leavell",
+    "site": "Leavell Hall",
+    "tile": "-4_-1",
+    "asset": "streets/-4_-1.glb",
+    "focus": [
+      -1856,
+      -19
+    ],
+    "eye": [
+      -1856,
+      2,
+      -19
+    ],
+    "look": [
+      -1868,
+      5,
+      -46
+    ],
+    "fov": 49,
+    "note": "South exterior and principal porch."
+  },
+  {
+    "id": "campus-longstreet",
+    "site": "Longstreet Hall",
+    "tile": "-4_-1",
+    "asset": "streets/-4_-1.glb",
+    "focus": [
+      -1918,
+      -26
+    ],
+    "eye": [
+      -1918,
+      2,
+      -26
+    ],
+    "look": [
+      -1919,
+      5,
+      -54
+    ],
+    "fov": 46,
+    "note": "South facade and entrance."
+  },
+  {
+    "id": "landrys-corner",
+    "site": "Landry’s Menswear",
+    "tile": "-1_0",
+    "asset": "streets/-1_0.glb",
+    "focus": [
+      -27,
+      139
+    ],
+    "eye": [
+      -27,
+      2.0,
+      139
+    ],
+    "look": [
+      -38.7,
+      2.4,
+      147.6
+    ],
+    "fov": 51,
+    "note": "The corner storefront and exposed brick side wall."
+  },
+  {
+    "id": "landrys-sidewalk",
+    "site": "Landry’s Menswear",
+    "tile": "-1_0",
+    "asset": "streets/-1_0.glb",
+    "focus": [
+      -31,
+      144
+    ],
+    "eye": [
+      -31,
+      2.15,
+      144
+    ],
+    "look": [
+      -39.7,
+      2.2,
+      147
+    ],
+    "fov": 49,
+    "note": "The entrance bay and awning from the sidewalk."
+  }
+]

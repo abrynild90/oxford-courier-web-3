@@ -1,0 +1,1001 @@
+{
+  "phase": "baseline",
+  "url": "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "views": [
+    {
+      "id": "tico-street",
+      "site": "Tico’s Steak House",
+      "tile": "-1_-1",
+      "asset": "streets/-1_-1.glb",
+      "focus": [
+        -134,
+        -26
+      ],
+      "eye": [
+        -129,
+        3.1,
+        -18
+      ],
+      "look": [
+        -134.5,
+        2,
+        -37
+      ],
+      "fov": 40,
+      "note": "Jackson Avenue view of the original telephone office and the masonry frontage.",
+      "eyeWorld": [
+        -129,
+        157.005,
+        -18
+      ],
+      "targetWorld": [
+        -134.5,
+        156.118125,
+        -37
+      ],
+      "dusk": false,
+      "registeredCount": 50,
+      "groundBelowEye": 153.905,
+      "cameraRestored": true,
+      "distanceM": 19.79991280954603,
+      "file": "tico-street-day.jpg"
+    },
+    {
+      "id": "tico-street",
+      "site": "Tico’s Steak House",
+      "tile": "-1_-1",
+      "asset": "streets/-1_-1.glb",
+      "focus": [
+        -134,
+        -26
+      ],
+      "eye": [
+        -129,
+        3.1,
+        -18
+      ],
+      "look": [
+        -134.5,
+        2,
+        -37
+      ],
+      "fov": 40,
+      "note": "Jackson Avenue view of the original telephone office and the masonry frontage.",
+      "eyeWorld": [
+        -129,
+        157.005,
+        -18
+      ],
+      "targetWorld": [
+        -134.5,
+        156.118125,
+        -37
+      ],
+      "dusk": true,
+      "registeredCount": 50,
+      "groundBelowEye": 153.905,
+      "cameraRestored": true,
+      "distanceM": 19.79991280954603,
+      "file": "tico-street-dusk.jpg"
+    },
+    {
+      "id": "tico-sidewalk",
+      "site": "Tico’s Steak House",
+      "tile": "-1_-1",
+      "asset": "streets/-1_-1.glb",
+      "focus": [
+        -134,
+        -27
+      ],
+      "eye": [
+        -130,
+        1.85,
+        -25.5
+      ],
+      "look": [
+        -134.3,
+        2,
+        -37.6
+      ],
+      "fov": 43,
+      "note": "Sidewalk view of the brick belt course, stone arch, three sash bays and approach railings.",
+      "eyeWorld": [
+        -130,
+        155.79125,
+        -25.5
+      ],
+      "targetWorld": [
+        -134.3,
+        156.13587500000003,
+        -37.6
+      ],
+      "dusk": false,
+      "registeredCount": 50,
+      "groundBelowEye": 153.94125,
+      "cameraRestored": true,
+      "distanceM": 12.845963038660244,
+      "file": "tico-sidewalk-day.jpg"
+    },
+    {
+      "id": "tico-sidewalk",
+      "site": "Tico’s Steak House",
+      "tile": "-1_-1",
+      "asset": "streets/-1_-1.glb",
+      "focus": [
+        -134,
+        -27
+      ],
+      "eye": [
+        -130,
+        1.85,
+        -25.5
+      ],
+      "look": [
+        -134.3,
+        2,
+        -37.6
+      ],
+      "fov": 43,
+      "note": "Sidewalk view of the brick belt course, stone arch, three sash bays and approach railings.",
+      "eyeWorld": [
+        -130,
+        155.79125,
+        -25.5
+      ],
+      "targetWorld": [
+        -134.3,
+        156.13587500000003,
+        -37.6
+      ],
+      "dusk": true,
+      "registeredCount": 50,
+      "groundBelowEye": 153.94125,
+      "cameraRestored": true,
+      "distanceM": 12.845963038660244,
+      "file": "tico-sidewalk-dusk.jpg"
+    },
+    {
+      "id": "avent-approach",
+      "site": "Avent Park gateway",
+      "tile": "2_-2",
+      "asset": "parks/avent-entrance.glb",
+      "focus": [
+        1038,
+        -779
+      ],
+      "eye": [
+        1030,
+        2.2,
+        -774
+      ],
+      "look": [
+        1044.8,
+        2.1,
+        -782.12
+      ],
+      "fov": 46,
+      "note": "View along the approach to the park entrance with the gateway and open passage in frame.",
+      "eyeWorld": [
+        1030,
+        137.8075,
+        -774
+      ],
+      "targetWorld": [
+        1044.8,
+        136.6911,
+        -782.12
+      ],
+      "dusk": false,
+      "registeredCount": 1,
+      "groundBelowEye": 135.60750000000002,
+      "cameraRestored": true,
+      "distanceM": 16.918059846211644,
+      "file": "avent-approach-day.jpg"
+    },
+    {
+      "id": "avent-approach",
+      "site": "Avent Park gateway",
+      "tile": "2_-2",
+      "asset": "parks/avent-entrance.glb",
+      "focus": [
+        1038,
+        -779
+      ],
+      "eye": [
+        1030,
+        2.2,
+        -774
+      ],
+      "look": [
+        1044.8,
+        2.1,
+        -782.12
+      ],
+      "fov": 46,
+      "note": "View along the approach to the park entrance with the gateway and open passage in frame.",
+      "eyeWorld": [
+        1030,
+        137.8075,
+        -774
+      ],
+      "targetWorld": [
+        1044.8,
+        136.6911,
+        -782.12
+      ],
+      "dusk": true,
+      "registeredCount": 1,
+      "groundBelowEye": 135.60750000000002,
+      "cameraRestored": true,
+      "distanceM": 16.918059846211644,
+      "file": "avent-approach-dusk.jpg"
+    },
+    {
+      "id": "avent-sign",
+      "site": "Avent Park gateway",
+      "tile": "2_-2",
+      "asset": "parks/avent-entrance.glb",
+      "focus": [
+        1038,
+        -779
+      ],
+      "eye": [
+        1039.8,
+        2.6,
+        -782.11
+      ],
+      "look": [
+        1044.8,
+        3.91,
+        -782.12
+      ],
+      "fov": 44,
+      "note": "Close view of the gateway piers, arch and lettering.",
+      "eyeWorld": [
+        1039.8,
+        137.24542500000004,
+        -782.11
+      ],
+      "targetWorld": [
+        1044.8,
+        138.5011,
+        -782.12
+      ],
+      "dusk": false,
+      "registeredCount": 1,
+      "groundBelowEye": 134.64542500000005,
+      "cameraRestored": true,
+      "distanceM": 5.155271060344443,
+      "file": "avent-sign-day.jpg"
+    },
+    {
+      "id": "avent-sign",
+      "site": "Avent Park gateway",
+      "tile": "2_-2",
+      "asset": "parks/avent-entrance.glb",
+      "focus": [
+        1038,
+        -779
+      ],
+      "eye": [
+        1039.8,
+        2.6,
+        -782.11
+      ],
+      "look": [
+        1044.8,
+        3.91,
+        -782.12
+      ],
+      "fov": 44,
+      "note": "Close view of the gateway piers, arch and lettering.",
+      "eyeWorld": [
+        1039.8,
+        137.24542500000004,
+        -782.11
+      ],
+      "targetWorld": [
+        1044.8,
+        138.5011,
+        -782.12
+      ],
+      "dusk": true,
+      "registeredCount": 1,
+      "groundBelowEye": 134.64542500000005,
+      "cameraRestored": true,
+      "distanceM": 5.155271060344443,
+      "file": "avent-sign-dusk.jpg"
+    },
+    {
+      "id": "campus-barr",
+      "site": "Barr Hall",
+      "tile": "-4_-1",
+      "asset": "streets/-4_-1.glb",
+      "focus": [
+        -1829,
+        -4
+      ],
+      "eye": [
+        -1829,
+        2,
+        -4
+      ],
+      "look": [
+        -1840,
+        5,
+        -29
+      ],
+      "fov": 47,
+      "note": "South and east elevations.",
+      "eyeWorld": [
+        -1829,
+        156.71875,
+        -4
+      ],
+      "targetWorld": [
+        -1840,
+        159.87375,
+        -29
+      ],
+      "dusk": false,
+      "registeredCount": 42,
+      "groundBelowEye": 154.71875,
+      "cameraRestored": true,
+      "distanceM": 27.49461810973195,
+      "file": "campus-barr-day.jpg"
+    },
+    {
+      "id": "campus-barr",
+      "site": "Barr Hall",
+      "tile": "-4_-1",
+      "asset": "streets/-4_-1.glb",
+      "focus": [
+        -1829,
+        -4
+      ],
+      "eye": [
+        -1829,
+        2,
+        -4
+      ],
+      "look": [
+        -1840,
+        5,
+        -29
+      ],
+      "fov": 47,
+      "note": "South and east elevations.",
+      "eyeWorld": [
+        -1829,
+        156.71875,
+        -4
+      ],
+      "targetWorld": [
+        -1840,
+        159.87375,
+        -29
+      ],
+      "dusk": true,
+      "registeredCount": 42,
+      "groundBelowEye": 154.71875,
+      "cameraRestored": true,
+      "distanceM": 27.49461810973195,
+      "file": "campus-barr-dusk.jpg"
+    },
+    {
+      "id": "campus-vardaman",
+      "site": "Vardaman Hall",
+      "tile": "-4_-1",
+      "asset": "streets/-4_-1.glb",
+      "focus": [
+        -1911,
+        -41
+      ],
+      "eye": [
+        -1911,
+        3,
+        -41
+      ],
+      "look": [
+        -1940,
+        6.8,
+        -51
+      ],
+      "fov": 51,
+      "note": "East entrance elevation.",
+      "eyeWorld": [
+        -1911,
+        160.6975,
+        -41
+      ],
+      "targetWorld": [
+        -1940,
+        165.03750000000002,
+        -51
+      ],
+      "dusk": false,
+      "registeredCount": 42,
+      "groundBelowEye": 157.6975,
+      "cameraRestored": true,
+      "distanceM": 30.981213662476172,
+      "file": "campus-vardaman-day.jpg"
+    },
+    {
+      "id": "campus-vardaman",
+      "site": "Vardaman Hall",
+      "tile": "-4_-1",
+      "asset": "streets/-4_-1.glb",
+      "focus": [
+        -1911,
+        -41
+      ],
+      "eye": [
+        -1911,
+        3,
+        -41
+      ],
+      "look": [
+        -1940,
+        6.8,
+        -51
+      ],
+      "fov": 51,
+      "note": "East entrance elevation.",
+      "eyeWorld": [
+        -1911,
+        160.6975,
+        -41
+      ],
+      "targetWorld": [
+        -1940,
+        165.03750000000002,
+        -51
+      ],
+      "dusk": true,
+      "registeredCount": 42,
+      "groundBelowEye": 157.6975,
+      "cameraRestored": true,
+      "distanceM": 30.981213662476172,
+      "file": "campus-vardaman-dusk.jpg"
+    },
+    {
+      "id": "campus-hill",
+      "site": "Hill Hall",
+      "tile": "-4_-1",
+      "asset": "streets/-4_-1.glb",
+      "focus": [
+        -1925,
+        -31
+      ],
+      "eye": [
+        -1925,
+        2.2,
+        -31
+      ],
+      "look": [
+        -1905,
+        6,
+        -44
+      ],
+      "fov": 55,
+      "note": "West-facing masonry and entrance detail.",
+      "eyeWorld": [
+        -1925,
+        159.92374999999998,
+        -31
+      ],
+      "targetWorld": [
+        -1905,
+        163.72375,
+        -44
+      ],
+      "dusk": false,
+      "registeredCount": 42,
+      "groundBelowEye": 157.72375,
+      "cameraRestored": true,
+      "distanceM": 24.15450268583479,
+      "file": "campus-hill-day.jpg"
+    },
+    {
+      "id": "campus-hill",
+      "site": "Hill Hall",
+      "tile": "-4_-1",
+      "asset": "streets/-4_-1.glb",
+      "focus": [
+        -1925,
+        -31
+      ],
+      "eye": [
+        -1925,
+        2.2,
+        -31
+      ],
+      "look": [
+        -1905,
+        6,
+        -44
+      ],
+      "fov": 55,
+      "note": "West-facing masonry and entrance detail.",
+      "eyeWorld": [
+        -1925,
+        159.92374999999998,
+        -31
+      ],
+      "targetWorld": [
+        -1905,
+        163.72375,
+        -44
+      ],
+      "dusk": true,
+      "registeredCount": 42,
+      "groundBelowEye": 157.72375,
+      "cameraRestored": true,
+      "distanceM": 24.15450268583479,
+      "file": "campus-hill-dusk.jpg"
+    },
+    {
+      "id": "campus-leavell",
+      "site": "Leavell Hall",
+      "tile": "-4_-1",
+      "asset": "streets/-4_-1.glb",
+      "focus": [
+        -1856,
+        -19
+      ],
+      "eye": [
+        -1856,
+        2,
+        -19
+      ],
+      "look": [
+        -1868,
+        5,
+        -46
+      ],
+      "fov": 49,
+      "note": "South exterior and principal porch.",
+      "eyeWorld": [
+        -1856,
+        157.2925,
+        -19
+      ],
+      "targetWorld": [
+        -1868,
+        160.995,
+        -46
+      ],
+      "dusk": false,
+      "registeredCount": 42,
+      "groundBelowEye": 155.2925,
+      "cameraRestored": true,
+      "distanceM": 29.77765112042923,
+      "file": "campus-leavell-day.jpg"
+    },
+    {
+      "id": "campus-leavell",
+      "site": "Leavell Hall",
+      "tile": "-4_-1",
+      "asset": "streets/-4_-1.glb",
+      "focus": [
+        -1856,
+        -19
+      ],
+      "eye": [
+        -1856,
+        2,
+        -19
+      ],
+      "look": [
+        -1868,
+        5,
+        -46
+      ],
+      "fov": 49,
+      "note": "South exterior and principal porch.",
+      "eyeWorld": [
+        -1856,
+        157.2925,
+        -19
+      ],
+      "targetWorld": [
+        -1868,
+        160.995,
+        -46
+      ],
+      "dusk": true,
+      "registeredCount": 42,
+      "groundBelowEye": 155.2925,
+      "cameraRestored": true,
+      "distanceM": 29.77765112042923,
+      "file": "campus-leavell-dusk.jpg"
+    },
+    {
+      "id": "campus-longstreet",
+      "site": "Longstreet Hall",
+      "tile": "-4_-1",
+      "asset": "streets/-4_-1.glb",
+      "focus": [
+        -1918,
+        -26
+      ],
+      "eye": [
+        -1918,
+        2,
+        -26
+      ],
+      "look": [
+        -1919,
+        5,
+        -54
+      ],
+      "fov": 46,
+      "note": "South facade and entrance.",
+      "eyeWorld": [
+        -1918,
+        159.5175,
+        -26
+      ],
+      "targetWorld": [
+        -1919,
+        162.74375,
+        -54
+      ],
+      "dusk": false,
+      "registeredCount": 42,
+      "groundBelowEye": 157.5175,
+      "cameraRestored": true,
+      "distanceM": 28.202990782229108,
+      "file": "campus-longstreet-day.jpg"
+    },
+    {
+      "id": "campus-longstreet",
+      "site": "Longstreet Hall",
+      "tile": "-4_-1",
+      "asset": "streets/-4_-1.glb",
+      "focus": [
+        -1918,
+        -26
+      ],
+      "eye": [
+        -1918,
+        2,
+        -26
+      ],
+      "look": [
+        -1919,
+        5,
+        -54
+      ],
+      "fov": 46,
+      "note": "South facade and entrance.",
+      "eyeWorld": [
+        -1918,
+        159.5175,
+        -26
+      ],
+      "targetWorld": [
+        -1919,
+        162.74375,
+        -54
+      ],
+      "dusk": true,
+      "registeredCount": 42,
+      "groundBelowEye": 157.5175,
+      "cameraRestored": true,
+      "distanceM": 28.202990782229108,
+      "file": "campus-longstreet-dusk.jpg"
+    },
+    {
+      "id": "landrys-corner",
+      "site": "Landry’s Menswear",
+      "tile": "-1_0",
+      "asset": "streets/-1_0.glb",
+      "focus": [
+        -27,
+        139
+      ],
+      "eye": [
+        -27,
+        2,
+        139
+      ],
+      "look": [
+        -38.7,
+        2.4,
+        147.6
+      ],
+      "fov": 51,
+      "note": "The corner storefront and exposed brick side wall.",
+      "eyeWorld": [
+        -27,
+        155.55375,
+        139
+      ],
+      "targetWorld": [
+        -38.7,
+        155.61275,
+        147.6
+      ],
+      "dusk": false,
+      "registeredCount": 102,
+      "groundBelowEye": 153.55375,
+      "cameraRestored": true,
+      "distanceM": 14.520794778523658,
+      "file": "landrys-corner-day.jpg"
+    },
+    {
+      "id": "landrys-corner",
+      "site": "Landry’s Menswear",
+      "tile": "-1_0",
+      "asset": "streets/-1_0.glb",
+      "focus": [
+        -27,
+        139
+      ],
+      "eye": [
+        -27,
+        2,
+        139
+      ],
+      "look": [
+        -38.7,
+        2.4,
+        147.6
+      ],
+      "fov": 51,
+      "note": "The corner storefront and exposed brick side wall.",
+      "eyeWorld": [
+        -27,
+        155.55375,
+        139
+      ],
+      "targetWorld": [
+        -38.7,
+        155.61275,
+        147.6
+      ],
+      "dusk": true,
+      "registeredCount": 102,
+      "groundBelowEye": 153.55375,
+      "cameraRestored": true,
+      "distanceM": 14.520794778523658,
+      "file": "landrys-corner-dusk.jpg"
+    },
+    {
+      "id": "landrys-sidewalk",
+      "site": "Landry’s Menswear",
+      "tile": "-1_0",
+      "asset": "streets/-1_0.glb",
+      "focus": [
+        -31,
+        144
+      ],
+      "eye": [
+        -31,
+        2.15,
+        144
+      ],
+      "look": [
+        -39.7,
+        2.2,
+        147
+      ],
+      "fov": 49,
+      "note": "The entrance bay and awning from the sidewalk.",
+      "eyeWorld": [
+        -31,
+        155.51875,
+        144
+      ],
+      "targetWorld": [
+        -39.7,
+        155.432,
+        147
+      ],
+      "dusk": false,
+      "registeredCount": 102,
+      "groundBelowEye": 153.36875,
+      "cameraRestored": true,
+      "distanceM": 9.203125858234259,
+      "file": "landrys-sidewalk-day.jpg"
+    },
+    {
+      "id": "landrys-sidewalk",
+      "site": "Landry’s Menswear",
+      "tile": "-1_0",
+      "asset": "streets/-1_0.glb",
+      "focus": [
+        -31,
+        144
+      ],
+      "eye": [
+        -31,
+        2.15,
+        144
+      ],
+      "look": [
+        -39.7,
+        2.2,
+        147
+      ],
+      "fov": 49,
+      "note": "The entrance bay and awning from the sidewalk.",
+      "eyeWorld": [
+        -31,
+        155.51875,
+        144
+      ],
+      "targetWorld": [
+        -39.7,
+        155.432,
+        147
+      ],
+      "dusk": true,
+      "registeredCount": 102,
+      "groundBelowEye": 153.36875,
+      "cameraRestored": true,
+      "distanceM": 9.203125858234259,
+      "file": "landrys-sidewalk-dusk.jpg"
+    }
+  ],
+  "errors": [],
+  "assets": [
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/courthouse.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/square-books.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/stream/courier.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/neilsons.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/streets/-1_-1.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/schools/oxford-intermediate.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/streets/-1_0.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/precinct-additions/velvet-ditch-west-roof-arm.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/precinct-additions/velvet-ditch-east-roof-arm.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/streets/0_-1.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/streets/0_0.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/parks/avent-play.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/parks/avent-sports.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/streets/1_-2.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/streets/1_-3.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/schools/oxford-middle.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/schools/charger-health-and-wellness.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/schools/bramlett-elementary.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/paris-yates.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/lyceum.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/streets/-5_-1.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/precinct-additions/ole-miss-data-center-addition.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/streets/-4_-1.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/precinct-additions/ole-miss-northwest-mechanical-plant.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/streets/-4_0.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/streets/-5_0.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/courthouse.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/neilsons.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/square-books.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/streets/-1_0.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/precinct-additions/velvet-ditch-west-roof-arm.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/precinct-additions/velvet-ditch-east-roof-arm.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/streets/-1_-1.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/schools/oxford-intermediate.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/streets/0_0.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/data/blender/streets/0_-1.glb",
+      200
+    ]
+  ],
+  "targetAssetSHA256": {
+    "streets/-1_-1.glb": "c5467be36809c07b173d6ecb69b10fc7b2819d1f0257adce315d3faa20ac2ade",
+    "parks/avent-entrance.glb": null,
+    "streets/-4_-1.glb": "0c092dfc612a2be621c13c2a857983735437d3e129ecf59f194e5c62a8f6fa0a",
+    "streets/-1_0.glb": "11ad13dae681d4c06dbb8f646c8927cdc6ab5e91c815ba1c338e27c35f7a1b34"
+  },
+  "gameSHA256": "5c9c383ec0464b1775cace2998d38df1c38cb367684cfcee7d0d8a8182f3945f",
+  "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/158.0.0.0 Safari/537.36"
+}

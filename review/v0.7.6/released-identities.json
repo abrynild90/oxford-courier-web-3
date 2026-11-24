@@ -1,0 +1,10 @@
+{
+  "gameSHA256": "5c9c383ec0464b1775cace2998d38df1c38cb367684cfcee7d0d8a8182f3945f",
+  "base": "https://abrynild90.github.io/oxford-courier-web-next/v0.7.5/",
+  "assets": {
+    "streets/-1_-1.glb": "c5467be36809c07b173d6ecb69b10fc7b2819d1f0257adce315d3faa20ac2ade",
+    "streets/-4_-1.glb": "0c092dfc612a2be621c13c2a857983735437d3e129ecf59f194e5c62a8f6fa0a",
+    "parks/avent-entrance.glb": null,
+    "streets/-1_0.glb": "11ad13dae681d4c06dbb8f646c8927cdc6ab5e91c815ba1c338e27c35f7a1b34"
+  }
+}
