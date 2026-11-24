@@ -1,0 +1,10 @@
+{
+  "tag": "v0.7.6",
+  "commit": "3776596c750d1b6c257871354ce337340cecdbb3",
+  "gameSHA256": "8e3991b99780787fb7c2984a54321a565a9852e6b89c86611234ddd9def023e5",
+  "assets": {
+    "streets/0_-1.glb": "198739de6a8feca160462bf4b33be3473d06ead7bc61c370660eb949ecd979c2",
+    "streets/0_-2.glb": "c95ba8a3acdc541e0da6ec04788cf479dfedbdd26a0e84866059193b5cbf0cd8",
+    "streets/-2_0.glb": "b41305927b8aa8a19f5e973b37bcc5bba4a6ae3927e08b161b30a999ab3d55ae"
+  }
+}

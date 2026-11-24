@@ -1,0 +1,209 @@
+[
+  {
+    "site": "graduate",
+    "id": "graduate-north-lamar-corner",
+    "tile": "0_-1",
+    "index": 14,
+    "asset": "streets/0_-1.glb",
+    "focus": [
+      46,
+      -185
+    ],
+    "eye": [
+      46,
+      2.2,
+      -185
+    ],
+    "look": [
+      63,
+      6,
+      -211
+    ],
+    "fov": 47,
+    "note": "The public corner view shows the hotel entrance and the two street elevations."
+  },
+  {
+    "site": "graduate",
+    "id": "graduate-jefferson-terrace",
+    "tile": "0_-1",
+    "index": 14,
+    "asset": "streets/0_-1.glb",
+    "focus": [
+      43,
+      -181
+    ],
+    "eye": [
+      43,
+      22,
+      -181
+    ],
+    "look": [
+      73,
+      8,
+      -211
+    ],
+    "fov": 44,
+    "note": "An elevated view shows the terrace and Jefferson Avenue wing."
+  },
+  {
+    "site": "ammadelle",
+    "id": "ammadelle-east-facade",
+    "tile": "0_-2",
+    "index": 36,
+    "asset": "streets/0_-2.glb",
+    "focus": [
+      68,
+      -640
+    ],
+    "eye": [
+      68,
+      2.4,
+      -640
+    ],
+    "look": [
+      41.3,
+      5,
+      -646
+    ],
+    "fov": 44,
+    "note": "The projecting gable frames the recessed central entrance and the two open porches."
+  },
+  {
+    "site": "ammadelle",
+    "id": "ammadelle-porch",
+    "tile": "0_-2",
+    "index": 36,
+    "asset": "streets/0_-2.glb",
+    "focus": [
+      61,
+      -630
+    ],
+    "eye": [
+      61,
+      2,
+      -630
+    ],
+    "look": [
+      38.9,
+      4.7,
+      -641
+    ],
+    "fov": 51,
+    "note": "An oblique view shows the arcade openings, masonry supports, window trim and railings."
+  },
+  {
+    "site": "ammadelle",
+    "id": "ammadelle-roof",
+    "tile": "0_-2",
+    "index": 36,
+    "asset": "streets/0_-2.glb",
+    "focus": [
+      66,
+      -625
+    ],
+    "eye": [
+      66,
+      26,
+      -625
+    ],
+    "look": [
+      30,
+      6,
+      -645
+    ],
+    "fov": 46,
+    "note": "The elevated view shows the gable, porch roofs and higher western wing."
+  },
+  {
+    "site": "walton",
+    "id": "walton-north-front",
+    "tile": "-2_0",
+    "index": 4,
+    "asset": "streets/-2_0.glb",
+    "focus": [
+      -682,
+      222
+    ],
+    "eye": [
+      -682,
+      2.25,
+      222
+    ],
+    "look": [
+      -683,
+      4.3,
+      246
+    ],
+    "fov": 46,
+    "note": "The University Avenue elevation shows the projecting bay and porch."
+  },
+  {
+    "site": "walton",
+    "id": "walton-arched-bay",
+    "tile": "-2_0",
+    "index": 4,
+    "asset": "streets/-2_0.glb",
+    "focus": [
+      -685,
+      234
+    ],
+    "eye": [
+      -685,
+      2.25,
+      234
+    ],
+    "look": [
+      -686,
+      4.5,
+      246
+    ],
+    "fov": 50,
+    "note": "The close view shows arched windows and the trim between floors."
+  },
+  {
+    "site": "walton",
+    "id": "walton-rear-gallery",
+    "tile": "-2_0",
+    "index": 4,
+    "asset": "streets/-2_0.glb",
+    "focus": [
+      -672.5,
+      265.2
+    ],
+    "eye": [
+      -672.5,
+      2.9,
+      265.2
+    ],
+    "look": [
+      -679,
+      3.5,
+      258
+    ],
+    "fov": 57,
+    "note": "The rear elevation shows the two-level gallery and stair."
+  },
+  {
+    "site": "walton",
+    "id": "walton-roof",
+    "tile": "-2_0",
+    "index": 4,
+    "asset": "streets/-2_0.glb",
+    "focus": [
+      -657,
+      224
+    ],
+    "eye": [
+      -657,
+      26,
+      224
+    ],
+    "look": [
+      -682,
+      5.8,
+      251
+    ],
+    "fov": 40,
+    "note": "The elevated north view shows the roof ridge and separate slopes."
+  }
+]

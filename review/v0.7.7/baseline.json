@@ -1,0 +1,804 @@
+{
+  "phase": "baseline",
+  "url": "https://abrynild90.github.io/oxford-courier-web-3/v0.7.6/",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "views": [
+    {
+      "site": "graduate",
+      "id": "graduate-north-lamar-corner",
+      "tile": "0_-1",
+      "index": 14,
+      "asset": "streets/0_-1.glb",
+      "focus": [
+        46,
+        -185
+      ],
+      "eye": [
+        46,
+        2.2,
+        -185
+      ],
+      "look": [
+        63,
+        6,
+        -211
+      ],
+      "fov": 47,
+      "note": "The public corner view shows the hotel entrance and the two street elevations.",
+      "eyeWorld": [
+        46,
+        155.45749999999998,
+        -185
+      ],
+      "targetWorld": [
+        63,
+        159.8925,
+        -211
+      ],
+      "dusk": false,
+      "registeredCount": 45,
+      "registered": true,
+      "groundBelowEye": 153.2575,
+      "cameraRestored": true,
+      "distanceM": 31.379439526543493,
+      "file": "graduate-north-lamar-corner-day.jpg"
+    },
+    {
+      "site": "graduate",
+      "id": "graduate-north-lamar-corner",
+      "tile": "0_-1",
+      "index": 14,
+      "asset": "streets/0_-1.glb",
+      "focus": [
+        46,
+        -185
+      ],
+      "eye": [
+        46,
+        2.2,
+        -185
+      ],
+      "look": [
+        63,
+        6,
+        -211
+      ],
+      "fov": 47,
+      "note": "The public corner view shows the hotel entrance and the two street elevations.",
+      "eyeWorld": [
+        46,
+        155.45749999999998,
+        -185
+      ],
+      "targetWorld": [
+        63,
+        159.8925,
+        -211
+      ],
+      "dusk": true,
+      "registeredCount": 45,
+      "registered": true,
+      "groundBelowEye": 153.2575,
+      "cameraRestored": true,
+      "distanceM": 31.379439526543493,
+      "file": "graduate-north-lamar-corner-dusk.jpg"
+    },
+    {
+      "site": "graduate",
+      "id": "graduate-jefferson-terrace",
+      "tile": "0_-1",
+      "index": 14,
+      "asset": "streets/0_-1.glb",
+      "focus": [
+        43,
+        -181
+      ],
+      "eye": [
+        43,
+        22,
+        -181
+      ],
+      "look": [
+        73,
+        8,
+        -211
+      ],
+      "fov": 44,
+      "note": "An elevated view shows the terrace and Jefferson Avenue wing.",
+      "eyeWorld": [
+        43,
+        175.2175,
+        -181
+      ],
+      "targetWorld": [
+        73,
+        162.33,
+        -211
+      ],
+      "dusk": false,
+      "registeredCount": 45,
+      "registered": true,
+      "groundBelowEye": 153.2175,
+      "cameraRestored": true,
+      "distanceM": 44.340587008405734,
+      "file": "graduate-jefferson-terrace-day.jpg"
+    },
+    {
+      "site": "graduate",
+      "id": "graduate-jefferson-terrace",
+      "tile": "0_-1",
+      "index": 14,
+      "asset": "streets/0_-1.glb",
+      "focus": [
+        43,
+        -181
+      ],
+      "eye": [
+        43,
+        22,
+        -181
+      ],
+      "look": [
+        73,
+        8,
+        -211
+      ],
+      "fov": 44,
+      "note": "An elevated view shows the terrace and Jefferson Avenue wing.",
+      "eyeWorld": [
+        43,
+        175.2175,
+        -181
+      ],
+      "targetWorld": [
+        73,
+        162.33,
+        -211
+      ],
+      "dusk": true,
+      "registeredCount": 45,
+      "registered": true,
+      "groundBelowEye": 153.2175,
+      "cameraRestored": true,
+      "distanceM": 44.340587008405734,
+      "file": "graduate-jefferson-terrace-dusk.jpg"
+    },
+    {
+      "site": "ammadelle",
+      "id": "ammadelle-east-facade",
+      "tile": "0_-2",
+      "index": 36,
+      "asset": "streets/0_-2.glb",
+      "focus": [
+        68,
+        -640
+      ],
+      "eye": [
+        68,
+        2.4,
+        -640
+      ],
+      "look": [
+        41.3,
+        5,
+        -646
+      ],
+      "fov": 44,
+      "note": "The projecting gable frames the recessed central entrance and the two open porches.",
+      "eyeWorld": [
+        68,
+        159.85000000000002,
+        -640
+      ],
+      "targetWorld": [
+        41.3,
+        163.07375,
+        -646
+      ],
+      "dusk": false,
+      "registeredCount": 32,
+      "registered": true,
+      "groundBelowEye": 157.45000000000002,
+      "cameraRestored": true,
+      "distanceM": 27.555082363558633,
+      "file": "ammadelle-east-facade-day.jpg"
+    },
+    {
+      "site": "ammadelle",
+      "id": "ammadelle-east-facade",
+      "tile": "0_-2",
+      "index": 36,
+      "asset": "streets/0_-2.glb",
+      "focus": [
+        68,
+        -640
+      ],
+      "eye": [
+        68,
+        2.4,
+        -640
+      ],
+      "look": [
+        41.3,
+        5,
+        -646
+      ],
+      "fov": 44,
+      "note": "The projecting gable frames the recessed central entrance and the two open porches.",
+      "eyeWorld": [
+        68,
+        159.85000000000002,
+        -640
+      ],
+      "targetWorld": [
+        41.3,
+        163.07375,
+        -646
+      ],
+      "dusk": true,
+      "registeredCount": 32,
+      "registered": true,
+      "groundBelowEye": 157.45000000000002,
+      "cameraRestored": true,
+      "distanceM": 27.555082363558633,
+      "file": "ammadelle-east-facade-dusk.jpg"
+    },
+    {
+      "site": "ammadelle",
+      "id": "ammadelle-porch",
+      "tile": "0_-2",
+      "index": 36,
+      "asset": "streets/0_-2.glb",
+      "focus": [
+        61,
+        -630
+      ],
+      "eye": [
+        61,
+        2,
+        -630
+      ],
+      "look": [
+        38.9,
+        4.7,
+        -641
+      ],
+      "fov": 51,
+      "note": "An oblique view shows the arcade openings, masonry supports, window trim and railings.",
+      "eyeWorld": [
+        61,
+        159.46125,
+        -630
+      ],
+      "targetWorld": [
+        38.9,
+        162.71775,
+        -641
+      ],
+      "dusk": false,
+      "registeredCount": 32,
+      "registered": true,
+      "groundBelowEye": 157.46125,
+      "cameraRestored": true,
+      "distanceM": 24.900096229733734,
+      "file": "ammadelle-porch-day.jpg"
+    },
+    {
+      "site": "ammadelle",
+      "id": "ammadelle-porch",
+      "tile": "0_-2",
+      "index": 36,
+      "asset": "streets/0_-2.glb",
+      "focus": [
+        61,
+        -630
+      ],
+      "eye": [
+        61,
+        2,
+        -630
+      ],
+      "look": [
+        38.9,
+        4.7,
+        -641
+      ],
+      "fov": 51,
+      "note": "An oblique view shows the arcade openings, masonry supports, window trim and railings.",
+      "eyeWorld": [
+        61,
+        159.46125,
+        -630
+      ],
+      "targetWorld": [
+        38.9,
+        162.71775,
+        -641
+      ],
+      "dusk": true,
+      "registeredCount": 32,
+      "registered": true,
+      "groundBelowEye": 157.46125,
+      "cameraRestored": true,
+      "distanceM": 24.900096229733734,
+      "file": "ammadelle-porch-dusk.jpg"
+    },
+    {
+      "site": "ammadelle",
+      "id": "ammadelle-roof",
+      "tile": "0_-2",
+      "index": 36,
+      "asset": "streets/0_-2.glb",
+      "focus": [
+        66,
+        -625
+      ],
+      "eye": [
+        66,
+        26,
+        -625
+      ],
+      "look": [
+        30,
+        6,
+        -645
+      ],
+      "fov": 46,
+      "note": "The elevated view shows the gable, porch roofs and higher western wing.",
+      "eyeWorld": [
+        66,
+        183.225,
+        -625
+      ],
+      "targetWorld": [
+        30,
+        164.10625000000002,
+        -645
+      ],
+      "dusk": false,
+      "registeredCount": 32,
+      "registered": true,
+      "groundBelowEye": 157.225,
+      "cameraRestored": true,
+      "distanceM": 45.40403728263049,
+      "file": "ammadelle-roof-day.jpg"
+    },
+    {
+      "site": "ammadelle",
+      "id": "ammadelle-roof",
+      "tile": "0_-2",
+      "index": 36,
+      "asset": "streets/0_-2.glb",
+      "focus": [
+        66,
+        -625
+      ],
+      "eye": [
+        66,
+        26,
+        -625
+      ],
+      "look": [
+        30,
+        6,
+        -645
+      ],
+      "fov": 46,
+      "note": "The elevated view shows the gable, porch roofs and higher western wing.",
+      "eyeWorld": [
+        66,
+        183.225,
+        -625
+      ],
+      "targetWorld": [
+        30,
+        164.10625000000002,
+        -645
+      ],
+      "dusk": true,
+      "registeredCount": 32,
+      "registered": true,
+      "groundBelowEye": 157.225,
+      "cameraRestored": true,
+      "distanceM": 45.40403728263049,
+      "file": "ammadelle-roof-dusk.jpg"
+    },
+    {
+      "site": "walton",
+      "id": "walton-north-front",
+      "tile": "-2_0",
+      "index": 4,
+      "asset": "streets/-2_0.glb",
+      "focus": [
+        -682,
+        222
+      ],
+      "eye": [
+        -682,
+        2.25,
+        222
+      ],
+      "look": [
+        -683,
+        4.3,
+        246
+      ],
+      "fov": 46,
+      "note": "The University Avenue elevation shows the projecting bay and porch.",
+      "eyeWorld": [
+        -682,
+        153.28,
+        222
+      ],
+      "targetWorld": [
+        -683,
+        155.1425,
+        246
+      ],
+      "dusk": false,
+      "registeredCount": 25,
+      "registered": true,
+      "groundBelowEye": 151.03,
+      "cameraRestored": true,
+      "distanceM": 24.092922326899245,
+      "file": "walton-north-front-day.jpg"
+    },
+    {
+      "site": "walton",
+      "id": "walton-north-front",
+      "tile": "-2_0",
+      "index": 4,
+      "asset": "streets/-2_0.glb",
+      "focus": [
+        -682,
+        222
+      ],
+      "eye": [
+        -682,
+        2.25,
+        222
+      ],
+      "look": [
+        -683,
+        4.3,
+        246
+      ],
+      "fov": 46,
+      "note": "The University Avenue elevation shows the projecting bay and porch.",
+      "eyeWorld": [
+        -682,
+        153.28,
+        222
+      ],
+      "targetWorld": [
+        -683,
+        155.1425,
+        246
+      ],
+      "dusk": true,
+      "registeredCount": 25,
+      "registered": true,
+      "groundBelowEye": 151.03,
+      "cameraRestored": true,
+      "distanceM": 24.092922326899245,
+      "file": "walton-north-front-dusk.jpg"
+    },
+    {
+      "site": "walton",
+      "id": "walton-arched-bay",
+      "tile": "-2_0",
+      "index": 4,
+      "asset": "streets/-2_0.glb",
+      "focus": [
+        -685,
+        234
+      ],
+      "eye": [
+        -685,
+        2.25,
+        234
+      ],
+      "look": [
+        -686,
+        4.5,
+        246
+      ],
+      "fov": 50,
+      "note": "The close view shows arched windows and the trim between floors.",
+      "eyeWorld": [
+        -685,
+        153.14125,
+        234
+      ],
+      "targetWorld": [
+        -686,
+        155.275,
+        246
+      ],
+      "dusk": false,
+      "registeredCount": 25,
+      "registered": true,
+      "groundBelowEye": 150.89125,
+      "cameraRestored": true,
+      "distanceM": 12.229181863988284,
+      "file": "walton-arched-bay-day.jpg"
+    },
+    {
+      "site": "walton",
+      "id": "walton-arched-bay",
+      "tile": "-2_0",
+      "index": 4,
+      "asset": "streets/-2_0.glb",
+      "focus": [
+        -685,
+        234
+      ],
+      "eye": [
+        -685,
+        2.25,
+        234
+      ],
+      "look": [
+        -686,
+        4.5,
+        246
+      ],
+      "fov": 50,
+      "note": "The close view shows arched windows and the trim between floors.",
+      "eyeWorld": [
+        -685,
+        153.14125,
+        234
+      ],
+      "targetWorld": [
+        -686,
+        155.275,
+        246
+      ],
+      "dusk": true,
+      "registeredCount": 25,
+      "registered": true,
+      "groundBelowEye": 150.89125,
+      "cameraRestored": true,
+      "distanceM": 12.229181863988284,
+      "file": "walton-arched-bay-dusk.jpg"
+    },
+    {
+      "site": "walton",
+      "id": "walton-rear-gallery",
+      "tile": "-2_0",
+      "index": 4,
+      "asset": "streets/-2_0.glb",
+      "focus": [
+        -672.5,
+        265.2
+      ],
+      "eye": [
+        -672.5,
+        2.9,
+        265.2
+      ],
+      "look": [
+        -679,
+        3.5,
+        258
+      ],
+      "fov": 57,
+      "note": "The rear elevation shows the two-level gallery and stair.",
+      "eyeWorld": [
+        -672.5,
+        153.390375,
+        265.2
+      ],
+      "targetWorld": [
+        -679,
+        154.1175,
+        258
+      ],
+      "dusk": false,
+      "registeredCount": 25,
+      "registered": true,
+      "groundBelowEye": 150.490375,
+      "cameraRestored": true,
+      "distanceM": 9.727214954221216,
+      "file": "walton-rear-gallery-day.jpg"
+    },
+    {
+      "site": "walton",
+      "id": "walton-rear-gallery",
+      "tile": "-2_0",
+      "index": 4,
+      "asset": "streets/-2_0.glb",
+      "focus": [
+        -672.5,
+        265.2
+      ],
+      "eye": [
+        -672.5,
+        2.9,
+        265.2
+      ],
+      "look": [
+        -679,
+        3.5,
+        258
+      ],
+      "fov": 57,
+      "note": "The rear elevation shows the two-level gallery and stair.",
+      "eyeWorld": [
+        -672.5,
+        153.390375,
+        265.2
+      ],
+      "targetWorld": [
+        -679,
+        154.1175,
+        258
+      ],
+      "dusk": true,
+      "registeredCount": 25,
+      "registered": true,
+      "groundBelowEye": 150.490375,
+      "cameraRestored": true,
+      "distanceM": 9.727214954221216,
+      "file": "walton-rear-gallery-dusk.jpg"
+    },
+    {
+      "site": "walton",
+      "id": "walton-roof",
+      "tile": "-2_0",
+      "index": 4,
+      "asset": "streets/-2_0.glb",
+      "focus": [
+        -657,
+        224
+      ],
+      "eye": [
+        -657,
+        26,
+        224
+      ],
+      "look": [
+        -682,
+        5.8,
+        251
+      ],
+      "fov": 40,
+      "note": "The elevated north view shows the roof ridge and separate slopes.",
+      "eyeWorld": [
+        -657,
+        177.17375,
+        224
+      ],
+      "targetWorld": [
+        -682,
+        156.56500000000003,
+        251
+      ],
+      "dusk": false,
+      "registeredCount": 25,
+      "registered": true,
+      "groundBelowEye": 151.17375,
+      "cameraRestored": true,
+      "distanceM": 42.174880871942,
+      "file": "walton-roof-day.jpg"
+    },
+    {
+      "site": "walton",
+      "id": "walton-roof",
+      "tile": "-2_0",
+      "index": 4,
+      "asset": "streets/-2_0.glb",
+      "focus": [
+        -657,
+        224
+      ],
+      "eye": [
+        -657,
+        26,
+        224
+      ],
+      "look": [
+        -682,
+        5.8,
+        251
+      ],
+      "fov": 40,
+      "note": "The elevated north view shows the roof ridge and separate slopes.",
+      "eyeWorld": [
+        -657,
+        177.17375,
+        224
+      ],
+      "targetWorld": [
+        -682,
+        156.56500000000003,
+        251
+      ],
+      "dusk": true,
+      "registeredCount": 25,
+      "registered": true,
+      "groundBelowEye": 151.17375,
+      "cameraRestored": true,
+      "distanceM": 42.174880871942,
+      "file": "walton-roof-dusk.jpg"
+    }
+  ],
+  "errors": [],
+  "assets": [
+    [
+      "https://abrynild90.github.io/oxford-courier-web-3/v0.7.6/data/stream/courier.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-3/v0.7.6/data/blender/square-books.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-3/v0.7.6/data/blender/courthouse.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-3/v0.7.6/data/blender/neilsons.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-3/v0.7.6/data/blender/streets/0_-1.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-3/v0.7.6/data/blender/streets/-1_-1.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-3/v0.7.6/data/blender/schools/oxford-intermediate.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-3/v0.7.6/data/blender/streets/0_0.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-3/v0.7.6/data/blender/streets/-1_0.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-3/v0.7.6/data/blender/precinct-additions/velvet-ditch-west-roof-arm.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-3/v0.7.6/data/blender/precinct-additions/velvet-ditch-east-roof-arm.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-3/v0.7.6/data/blender/streets/0_-2.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-3/v0.7.6/data/blender/streets/-2_0.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-3/v0.7.6/data/blender/streets/-2_-1.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-3/v0.7.6/data/blender/schools/oxford-learning-center.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web-3/v0.7.6/data/blender/schools/central-elementary.glb",
+      200
+    ]
+  ],
+  "targetAssetSHA256": {
+    "streets/0_-1.glb": "198739de6a8feca160462bf4b33be3473d06ead7bc61c370660eb949ecd979c2",
+    "streets/0_-2.glb": "c95ba8a3acdc541e0da6ec04788cf479dfedbdd26a0e84866059193b5cbf0cd8",
+    "streets/-2_0.glb": "b41305927b8aa8a19f5e973b37bcc5bba4a6ae3927e08b161b30a999ab3d55ae"
+  },
+  "gameSHA256": "8e3991b99780787fb7c2984a54321a565a9852e6b89c86611234ddd9def023e5",
+  "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/158.0.0.0 Safari/537.36"
+}
